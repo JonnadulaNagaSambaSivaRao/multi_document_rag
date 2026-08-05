@@ -1,0 +1,11 @@
+Artificial Intelligence enables computers to perform tasks that normally require human intelligence.
+
+Machine Learning is a subset of Artificial Intelligence.
+
+Deep Learning uses neural networks.
+
+Natural Language Processing allows computers to understand human language.
+
+Large Language Models such as Llama and GPT are used in chatbots.
+
+RAG combines document retrieval with language models to provide accurate answers.
